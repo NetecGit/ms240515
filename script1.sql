@@ -1,7 +1,7 @@
 -- Creamos nuestra base de datos
-drop database if exists practica6; 
-create database practica6;
-use practica6;
+drop database if exists practica11; 
+create database practica11;
+use practica11;
 
 -- Crear tabla de usuarios
 CREATE TABLE `users` (
