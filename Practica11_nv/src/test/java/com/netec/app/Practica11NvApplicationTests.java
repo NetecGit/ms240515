@@ -1,10 +1,10 @@
-package co.bancolombia.ms_security;
+package com.netec.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsSecurityApplicationTests {
+class Practica11NvApplicationTests {
 
 	@Test
 	void contextLoads() {
